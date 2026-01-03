@@ -1,9 +1,10 @@
 export default function Progress({ current, total }) {
-    const width = ((current + 1) / total) * 100;
-
     return (
         <div className="progress">
-            <div className="progress-bar" style={{ width: `${width}%` }} />
+            <div
+                className="progress-bar"
+                style={{ width: `${((current + 1) / total) * 100}%` }}
+            />
             <span>{current + 1} / {total}</span>
         </div>
     );

@@ -1,24 +1,29 @@
 .question-card {
     background: linear-gradient(160deg,
-            rgba(15, 23, 42, 0.9),
-            rgba(2, 6, 23, 0.9));
+            rgba(15, 23, 42, 0.95),
+            rgba(2, 6, 23, 0.95));
     border-radius: 22px;
-    padding: 35px;
+    padding: 36px;
     width: 90%;
-    max-width: 440px;
+    max-width: 460px;
+
+    border: 1px solid rgba(148, 163, 184, 0.15);
     box-shadow: 0 30px 60px rgba(0, 0, 0, 0.6);
-    border: 1px solid #1e293b;
+
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
 }
 
 .question-title {
-    margin-top: 0;
+    margin: 0;
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.4;
 }
 
 textarea {
     width: 100%;
-    margin-top: 18px;
     padding: 14px;
     border-radius: 14px;
     background: #020617;
@@ -34,7 +39,7 @@ textarea:focus {
 }
 
 .submit-btn {
-    margin-top: 22px;
+    margin-top: 10px;
     width: 100%;
     padding: 14px;
     border-radius: 16px;
@@ -42,11 +47,14 @@ textarea:focus {
     font-size: 15px;
     font-weight: 600;
     cursor: pointer;
+
     background: linear-gradient(135deg, #6366f1, #22d3ee);
     color: #020617;
-    transition: transform 0.2s ease;
+
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .submit-btn:hover {
     transform: translateY(-2px);
+    box-shadow: 0 12px 25px rgba(99, 102, 241, 0.45);
 }

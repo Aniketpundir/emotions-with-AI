@@ -1,21 +1,22 @@
+// import axios from "axios";
+
+// /**
+//  * Sends user answers to AI backend for mood prediction
+//  * @param {Array<string>} answers
+//  * @returns {Promise}
+//  */
+// export const predictMood = async (answers) => {
+//     return axios.post("http://localhost:8000/predict", {
+//         answers: answers
+//     });
+// };
+
+
 import axios from "axios";
 
-/**
- * Sends user answers to AI backend for mood prediction
- * @param {Array<string>} answers
- */
-export const predictMood = async (answers) => {
-    const response = await axios.post(
-        "https://emotions-with-ai.onrender.com/predict",
-        {
-            answers: answers
-        },
-        {
-            headers: {
-                "Content-Type": "application/json"
-            }
-        }
+export const predictMood = (answers) => {
+    return axios.post(
+        "https://emotions-with-ai.onrender.com",
+        { answers }
     );
-
-    return response.data;
 };
