@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    background: linear-gradient(135deg, #0f172a, #020617);
+    color: #e5e7eb;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 40px;
+    background: rgba(2, 6, 23, 0.8);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid #1e293b;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo {
+    font-size: 34px;
+}
+
+.brand {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.tagline {
+    margin: 0;
+    font-size: 12px;
+    color: #94a3b8;
+}
+
+.nav-btn {
+    background: linear-gradient(135deg, #6366f1, #22d3ee);
+    border: none;
+    color: #020617;
+    padding: 10px 18px;
+    border-radius: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}

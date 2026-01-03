@@ -1,0 +1,755 @@
+text,emotion
+I feel very happy today,happy
+I am feeling joyful,happy
+Today is a great day,happy
+I feel excited about my future,happy
+I am smiling a lot today,happy
+Everything is going well,happy
+I feel positive and energetic,happy
+I am satisfied with my life,happy
+I feel relaxed and cheerful,happy
+I am proud of myself,happy
+I enjoyed my day,happy
+I am feeling good,happy
+I feel motivated,happy
+I am feeling awesome,happy
+Life feels beautiful,happy
+I am calm and happy,happy
+I feel confident,happy
+I am enjoying everything,happy
+I feel blessed,happy
+I am in a good mood,happy
+
+I feel sad today,sad
+I am feeling lonely,sad
+I feel depressed,sad
+Nothing feels right,sad
+I am feeling low,sad
+I feel hopeless,sad
+I am crying inside,sad
+I feel empty,sad
+I am very upset,sad
+I feel disappointed,sad
+I am unhappy today,sad
+Life feels dull,sad
+I feel emotional pain,sad
+I am feeling broken,sad
+I feel tired of everything,sad
+I am feeling down,sad
+I feel miserable,sad
+I feel heartbroken,sad
+I feel sad and alone,sad
+I am mentally low,sad
+
+I am stressed due to work,stressed
+I feel pressure from exams,stressed
+I am mentally exhausted,stressed
+I feel overloaded,stressed
+I am worried about my future,stressed
+I feel anxious,stressed
+I am under lot of pressure,stressed
+I feel tense,stressed
+I am stressed and tired,stressed
+I cannot relax,stressed
+I feel burdened,stressed
+I feel overwhelmed,stressed
+I am stressed with responsibilities,stressed
+I feel burnout,stressed
+My mind is not calm,stressed
+I feel pressure all the time,stressed
+I am stressed mentally,stressed
+I feel restless,stressed
+I am struggling with stress,stressed
+I feel nervous,stressed
+
+I feel angry right now,angry
+I am very frustrated,angry
+I feel irritated,angry
+I am mad at everything,angry
+I feel annoyed,angry
+I am furious,angry
+I feel rage inside,angry
+I am angry with people,angry
+I feel aggressive,angry
+I am upset and angry,angry
+I feel irritated today,angry
+I feel angry and stressed,angry
+I am shouting in anger,angry
+I feel mad today,angry
+I am losing my temper,angry
+I feel anger building up,angry
+I am annoyed by everyone,angry
+I feel hostile,angry
+I feel angry emotionally,angry
+I am full of anger,angry
+
+Everything feels normal,neutral
+I feel okay,neutral
+Nothing special today,neutral
+I am fine,neutral
+I feel average,neutral
+Today is normal,neutral
+I feel balanced,neutral
+Nothing unusual,neutral
+I feel stable,neutral
+I am doing okay,neutral
+I feel neither happy nor sad,neutral
+I feel calm,neutral
+I am neutral today,neutral
+I feel steady,neutral
+I feel usual,neutral
+I am feeling normal,neutral
+No strong emotions,neutral
+I feel alright,neutral
+I am emotionally neutral,neutral
+I feel fine today,neutral
+
+I feel cheerful and relaxed today,happy
+I woke up feeling positive,happy
+My mood is very good today,happy
+I feel light and happy,happy
+I am feeling mentally peaceful,happy
+I feel excited about today,happy
+I feel fresh and motivated,happy
+I am happy with how things are going,happy
+I feel emotionally strong today,happy
+I feel optimistic,happy
+I feel content with myself,happy
+I am enjoying my time,happy
+I feel hopeful and happy,happy
+I feel satisfied and relaxed,happy
+I am in a cheerful mood,happy
+I feel mentally calm and happy,happy
+I feel joy inside me,happy
+I feel happy and relaxed right now,happy
+I am feeling positive vibes,happy
+I feel emotionally fulfilled,happy
+
+I feel very low today,sad
+I feel emotionally drained,sad
+I feel unhappy and tired,sad
+I feel lonely and ignored,sad
+I am feeling mentally weak,sad
+I feel sadness inside me,sad
+I am feeling emotionally broken,sad
+I feel dull and sad today,sad
+I feel like crying,sad
+I feel lost and sad,sad
+I feel emotionally hurt,sad
+I feel disappointed in myself,sad
+I feel sadness all around,sad
+I am feeling emotionally empty,sad
+I feel gloomy today,sad
+I feel down and unhappy,sad
+I feel mentally upset,sad
+I feel sadness in my heart,sad
+I feel lonely and low,sad
+I feel emotionally tired and sad,sad
+
+I feel stressed from daily work,stressed
+I feel pressure building up,stressed
+I feel mentally pressured today,stressed
+I feel stressed and anxious,stressed
+I feel workload stress,stressed
+I am feeling mentally tense,stressed
+I feel uneasy and stressed,stressed
+I feel overwhelmed with tasks,stressed
+I feel stress in my mind,stressed
+I feel mentally overloaded today,stressed
+I feel exam stress,stressed
+I feel work pressure constantly,stressed
+I feel mentally disturbed due to stress,stressed
+I feel stressed and restless,stressed
+I feel anxiety and stress together,stressed
+I feel mentally pressured right now,stressed
+I feel stressed about responsibilities,stressed
+I feel constant pressure,stressed
+I feel tense and stressed today,stressed
+I feel burnout from work,stressed
+
+I feel angry at people,angry
+I feel frustrated with situations,angry
+I feel irritated right now,angry
+I feel anger inside me,angry
+I feel annoyed and angry,angry
+I feel furious today,angry
+I feel aggressive emotions,angry
+I feel upset and irritated,angry
+I feel anger rising,angry
+I feel mad and angry,angry
+I feel irritated by small things,angry
+I feel anger due to stress,angry
+I feel annoyed mentally,angry
+I feel frustrated and angry today,angry
+I feel angry and irritated today,angry
+I feel rage building up inside,angry
+I feel emotionally angry,angry
+I feel annoyed with everyone today,angry
+I feel angry at myself,angry
+I feel uncontrollable anger,angry
+
+I feel completely normal today,neutral
+I feel emotionally balanced,neutral
+I feel nothing special,neutral
+I feel fine and normal,neutral
+I feel okay mentally,neutral
+I feel average today,neutral
+I feel calm and normal,neutral
+I feel steady and okay,neutral
+I feel usual today,neutral
+I feel neutral emotionally,neutral
+I feel no strong emotions,neutral
+I feel stable today,neutral
+I feel mentally fine,neutral
+I feel normal and calm,neutral
+I feel okay with everything,neutral
+I feel emotionally steady,neutral
+I feel relaxed but neutral,neutral
+I feel balanced emotionally,neutral
+I feel nothing unusual today,neutral
+I feel emotionally okay,neutral
+
+I feel extremely happy and peaceful,happy
+I feel mentally relaxed and happy,happy
+I feel joyful inside today,happy
+I feel positive energy around me,happy
+I feel calm and satisfied,happy
+I am feeling emotionally strong,happy
+I feel good about myself today,happy
+I am enjoying the present moment,happy
+I feel cheerful and hopeful,happy
+I feel mentally fresh,happy
+I feel happy with my progress,happy
+I feel content and peaceful,happy
+I feel inspired today,happy
+I feel emotionally uplifted,happy
+I feel light-hearted,happy
+I feel happy and confident,happy
+I feel optimistic about life,happy
+I feel joyful and calm,happy
+I feel positive emotions,happy
+I feel relaxed and happy today,happy
+I feel mentally satisfied,happy
+I feel happiness inside me,happy
+I feel cheerful mentally,happy
+I feel bright and happy,happy
+I feel emotionally stable and happy,happy
+
+I feel very sad and tired,sad
+I feel emotionally weak,sad
+I feel lonely and depressed,sad
+I feel down mentally today,sad
+I feel sadness taking over,sad
+I feel mentally drained and sad,sad
+I feel emotional pain deeply,sad
+I feel unhappy with myself,sad
+I feel sadness and emptiness,sad
+I feel low and broken,sad
+I feel mentally disturbed,sad
+I feel hopeless and sad,sad
+I feel emotional sadness,sad
+I feel unhappy and lonely,sad
+I feel depressed and low,sad
+I feel mentally upset and sad,sad
+I feel sorrowful,sad
+I feel emotionally heavy,sad
+I feel sad inside me,sad
+I feel sadness all day,sad
+I feel mentally tired and sad,sad
+I feel emotional discomfort,sad
+I feel sad and disappointed,sad
+I feel emotionally down today,sad
+I feel sadness in my thoughts,sad
+
+I feel very stressed today,stressed
+I feel mental pressure constantly,stressed
+I feel stressed about work and life,stressed
+I feel anxious and stressed mentally,stressed
+I feel pressure in my mind,stressed
+I feel stress building up inside,stressed
+I feel mentally overloaded and stressed,stressed
+I feel stressed and uneasy,stressed
+I feel anxiety and pressure,stressed
+I feel mental stress today,stressed
+I feel pressured emotionally,stressed
+I feel stressed with deadlines,stressed
+I feel mentally tense and stressed,stressed
+I feel stress affecting me,stressed
+I feel worried and stressed,stressed
+I feel mental stress from responsibilities,stressed
+I feel restless due to stress,stressed
+I feel stressed all day,stressed
+I feel mental pressure increasing,stressed
+I feel anxiety-driven stress,stressed
+I feel overwhelmed and pressured,stressed
+I feel stressed and mentally tired,stressed
+I feel constant mental stress,stressed
+I feel pressure and anxiety together,stressed
+I feel stress controlling my mind,stressed
+
+I feel angry and annoyed,angry
+I feel irritation inside me,angry
+I feel frustrated mentally,angry
+I feel angry emotions today,angry
+I feel anger taking over,angry
+I feel annoyed with situations,angry
+I feel irritated mentally today,angry
+I feel aggressive thoughts,angry
+I feel anger and frustration,angry
+I feel angry at circumstances,angry
+I feel upset and frustrated,angry
+I feel anger in my mind,angry
+I feel irritated by everything,angry
+I feel furious and annoyed,angry
+I feel angry and tense,angry
+I feel anger inside my head,angry
+I feel annoyed emotionally,angry
+I feel angry reactions,angry
+I feel frustration and anger,angry
+I feel mad and irritated,angry
+I feel angry because of stress,angry
+I feel rage emotionally,angry
+I feel annoyed and upset today,angry
+I feel anger emotionally today,angry
+I feel frustrated and irritated,angry
+
+I feel emotionally normal today,neutral
+I feel mentally balanced,neutral
+I feel okay and calm,neutral
+I feel neutral and stable,neutral
+I feel fine emotionally,neutral
+I feel nothing intense,neutral
+I feel steady emotionally,neutral
+I feel normal and fine,neutral
+I feel balanced and okay,neutral
+I feel calm and neutral,neutral
+I feel emotionally fine,neutral
+I feel usual emotionally,neutral
+I feel mentally okay,neutral
+I feel neutral thoughts,neutral
+I feel nothing special emotionally,neutral
+I feel calm without emotion,neutral
+I feel emotionally average,neutral
+I feel neutral state of mind,neutral
+I feel normal mental state,neutral
+I feel stable and neutral,neutral
+I feel emotionally calm today,neutral
+I feel okay without emotion,neutral
+I feel nothing strong mentally,neutral
+I feel average emotionally today,neutral
+I feel mentally neutral today,neutral
+
+I feel happy and mentally calm,happy
+I feel emotionally refreshed,happy
+I feel peaceful and joyful,happy
+I feel happy with my routine,happy
+I feel mentally satisfied today,happy
+I feel cheerful inside,happy
+I feel happiness growing,happy
+I feel emotionally uplifted today,happy
+I feel happy without any worry,happy
+I feel light and cheerful,happy
+I feel happy and stress free,happy
+I feel relaxed and joyful,happy
+I feel emotionally positive today,happy
+I feel happy with my efforts,happy
+I feel inner happiness,happy
+I feel calm happiness,happy
+I feel cheerful energy,happy
+I feel mentally happy today,happy
+I feel happiness and peace,happy
+I feel emotionally joyful,happy
+I feel positive and relaxed,happy
+I feel happiness inside my heart,happy
+I feel joyful emotions,happy
+I feel satisfied emotionally,happy
+I feel mentally strong and happy,happy
+
+I feel sad and emotionally tired,sad
+I feel sadness in my mind,sad
+I feel emotionally exhausted and sad,sad
+I feel low energy and sad,sad
+I feel sad due to loneliness,sad
+I feel emotionally down and weak,sad
+I feel sadness controlling me,sad
+I feel emotionally drained today,sad
+I feel mentally sad,sad
+I feel sadness without reason,sad
+I feel sad and mentally tired,sad
+I feel emotionally fragile,sad
+I feel sadness and pain,sad
+I feel broken emotionally,sad
+I feel sadness deep inside,sad
+I feel unhappy mentally,sad
+I feel sadness affecting me,sad
+I feel emotional discomfort and sadness,sad
+I feel sad thoughts,sad
+I feel sadness in my heart today,sad
+I feel emotionally heavy and sad,sad
+I feel sadness from within,sad
+I feel low emotionally today,sad
+I feel sadness and emptiness today,sad
+I feel mentally low and sad,sad
+
+I feel stressed because of pressure,stressed
+I feel stress in my thoughts,stressed
+I feel mentally stressed today,stressed
+I feel pressure affecting my mind,stressed
+I feel stress and tension,stressed
+I feel anxious pressure,stressed
+I feel stress building mentally,stressed
+I feel mentally stressed and tired,stressed
+I feel overwhelmed mentally today,stressed
+I feel pressure and stress together,stressed
+I feel stress in daily life,stressed
+I feel anxious and pressured,stressed
+I feel stress disturbing my peace,stressed
+I feel mentally overloaded with stress,stressed
+I feel stress without relief,stressed
+I feel tension and pressure,stressed
+I feel mental strain today,stressed
+I feel stress affecting my mood,stressed
+I feel mentally burdened today,stressed
+I feel stress dominating my mind,stressed
+I feel anxious stress inside,stressed
+I feel pressure and mental stress,stressed
+I feel restless because of stress,stressed
+I feel mentally stressed right now,stressed
+I feel stress consuming my energy,stressed
+
+I feel anger rising inside,angry
+I feel irritated and frustrated,angry
+I feel angry thoughts,angry
+I feel annoyance in my mind,angry
+I feel angry emotions building,angry
+I feel frustration controlling me,angry
+I feel irritated mentally,angry
+I feel anger because of situations,angry
+I feel annoyed and tense,angry
+I feel aggressive mood,angry
+I feel anger and irritation together,angry
+I feel annoyed with circumstances,angry
+I feel frustrated mentally today,angry
+I feel anger overwhelming me,angry
+I feel angry feelings,angry
+I feel irritation growing,happy
+I feel annoyed and frustrated mentally,angry
+I feel angry and restless,angry
+I feel anger in my emotions,angry
+I feel irritated because of stress,angry
+I feel frustration inside me,angry
+I feel angry and annoyed today,angry
+I feel anger affecting my mood,angry
+I feel emotionally angry right now,angry
+I feel irritation inside my mind,angry
+
+I feel mentally neutral,neutral
+I feel emotionally calm and normal,neutral
+I feel okay without stress,neutral
+I feel stable emotionally today,neutral
+I feel nothing emotional,neutral
+I feel neutral thoughts today,neutral
+I feel calm and balanced emotionally,neutral
+I feel normal and relaxed,neutral
+I feel okay mentally and emotionally,neutral
+I feel average mental state,neutral
+I feel emotionally steady today,neutral
+I feel neutral mood today,neutral
+I feel emotionally flat,neutral
+I feel normal routine today,neutral
+I feel nothing special emotionally today,neutral
+I feel emotionally stable and calm,neutral
+I feel okay with no strong feeling,neutral
+I feel emotionally unchanged,neutral
+I feel mentally usual today,neutral
+I feel balanced and neutral emotionally,neutral
+I feel emotionally fine and normal,neutral
+I feel neutral and calm today,neutral
+I feel mentally steady,neutral
+I feel emotionally usual today,neutral
+I feel okay and neutral emotionally,neutral
+
+I feel happy and mentally calm,happy
+I feel emotionally refreshed,happy
+I feel peaceful and joyful,happy
+I feel happy with my routine,happy
+I feel mentally satisfied today,happy
+I feel cheerful inside,happy
+I feel happiness growing,happy
+I feel emotionally uplifted today,happy
+I feel happy without any worry,happy
+I feel light and cheerful,happy
+I feel happy and stress free,happy
+I feel relaxed and joyful,happy
+I feel emotionally positive today,happy
+I feel happy with my efforts,happy
+I feel inner happiness,happy
+I feel calm happiness,happy
+I feel cheerful energy,happy
+I feel mentally happy today,happy
+I feel happiness and peace,happy
+I feel emotionally joyful,happy
+I feel positive and relaxed,happy
+I feel happiness inside my heart,happy
+I feel joyful emotions,happy
+I feel satisfied emotionally,happy
+I feel mentally strong and happy,happy
+
+I feel sad and emotionally tired,sad
+I feel sadness in my mind,sad
+I feel emotionally exhausted and sad,sad
+I feel low energy and sad,sad
+I feel sad due to loneliness,sad
+I feel emotionally down and weak,sad
+I feel sadness controlling me,sad
+I feel emotionally drained today,sad
+I feel mentally sad,sad
+I feel sadness without reason,sad
+I feel sad and mentally tired,sad
+I feel emotionally fragile,sad
+I feel sadness and pain,sad
+I feel broken emotionally,sad
+I feel sadness deep inside,sad
+I feel unhappy mentally,sad
+I feel sadness affecting me,sad
+I feel emotional discomfort and sadness,sad
+I feel sad thoughts,sad
+I feel sadness in my heart today,sad
+I feel emotionally heavy and sad,sad
+I feel sadness from within,sad
+I feel low emotionally today,sad
+I feel sadness and emptiness today,sad
+I feel mentally low and sad,sad
+
+I feel stressed because of pressure,stressed
+I feel stress in my thoughts,stressed
+I feel mentally stressed today,stressed
+I feel pressure affecting my mind,stressed
+I feel stress and tension,stressed
+I feel anxious pressure,stressed
+I feel stress building mentally,stressed
+I feel mentally stressed and tired,stressed
+I feel overwhelmed mentally today,stressed
+I feel pressure and stress together,stressed
+I feel stress in daily life,stressed
+I feel anxious and pressured,stressed
+I feel stress disturbing my peace,stressed
+I feel mentally overloaded with stress,stressed
+I feel stress without relief,stressed
+I feel tension and pressure,stressed
+I feel mental strain today,stressed
+I feel stress affecting my mood,stressed
+I feel mentally burdened today,stressed
+I feel stress dominating my mind,stressed
+I feel anxious stress inside,stressed
+I feel pressure and mental stress,stressed
+I feel restless because of stress,stressed
+I feel mentally stressed right now,stressed
+I feel stress consuming my energy,stressed
+
+I feel anger rising inside,angry
+I feel irritated and frustrated,angry
+I feel angry thoughts,angry
+I feel annoyance in my mind,angry
+I feel angry emotions building,angry
+I feel frustration controlling me,angry
+I feel irritated mentally,angry
+I feel anger because of situations,angry
+I feel annoyed and tense,angry
+I feel aggressive mood,angry
+I feel anger and irritation together,angry
+I feel annoyed with circumstances,angry
+I feel frustrated mentally today,angry
+I feel anger overwhelming me,angry
+I feel angry feelings,angry
+I feel irritation growing,happy
+I feel annoyed and frustrated mentally,angry
+I feel angry and restless,angry
+I feel anger in my emotions,angry
+I feel irritated because of stress,angry
+I feel frustration inside me,angry
+I feel angry and annoyed today,angry
+I feel anger affecting my mood,angry
+I feel emotionally angry right now,angry
+I feel irritation inside my mind,angry
+
+I feel mentally neutral,neutral
+I feel emotionally calm and normal,neutral
+I feel okay without stress,neutral
+I feel stable emotionally today,neutral
+I feel nothing emotional,neutral
+I feel neutral thoughts today,neutral
+I feel calm and balanced emotionally,neutral
+I feel normal and relaxed,neutral
+I feel okay mentally and emotionally,neutral
+I feel average mental state,neutral
+I feel emotionally steady today,neutral
+I feel neutral mood today,neutral
+I feel emotionally flat,neutral
+I feel normal routine today,neutral
+I feel nothing special emotionally today,neutral
+I feel emotionally stable and calm,neutral
+I feel okay with no strong feeling,neutral
+I feel emotionally unchanged,neutral
+I feel mentally usual today,neutral
+I feel balanced and neutral emotionally,neutral
+I feel emotionally fine and normal,neutral
+I feel neutral and calm today,neutral
+I feel mentally steady,neutral
+I feel emotionally usual today,neutral
+I feel okay and neutral emotionally,neutral
+
+I feel very happy and peaceful today,happy
+I feel mentally fresh and happy,happy
+I feel joy and calmness,happy
+I feel happy with my emotional state,happy
+I feel emotionally relaxed today,happy
+I feel cheerful and mentally light,happy
+I feel happy and content,happy
+I feel inner calm and happiness,happy
+I feel emotionally safe and happy,happy
+I feel joyful without stress,happy
+I feel happy and motivated today,happy
+I feel mentally peaceful and happy,happy
+I feel emotionally positive,happy
+I feel happiness in my routine,happy
+I feel calm and emotionally happy,happy
+I feel happiness flowing,happy
+I feel happy with my progress today,happy
+I feel cheerful and satisfied,happy
+I feel joyful energy inside,happy
+I feel mentally positive and happy,happy
+I feel emotionally comfortable today,happy
+I feel happy and emotionally balanced,happy
+I feel joyful thoughts,happy
+I feel happiness and mental peace,happy
+I feel emotionally uplifted and happy,happy
+I feel happy without pressure,happy
+I feel calm joy today,happy
+I feel emotionally relaxed and happy,happy
+I feel cheerful emotions,happy
+I feel happiness deep inside,happy
+
+I feel emotionally sad and low,sad
+I feel sadness affecting my mood,sad
+I feel mentally discouraged today,sad
+I feel emotional heaviness,sad
+I feel sadness clouding my thoughts,sad
+I feel lonely and mentally sad,sad
+I feel sadness slowing me down today,sad
+I feel emotionally drained and unhappy,sad
+I feel sadness without motivation,sad
+I feel mentally low and tired,sad
+I feel emotional discomfort today,sad
+I feel sadness deep in my thoughts,sad
+I feel emotionally broken today,sad
+I feel sadness affecting my energy,sad
+I feel unhappy and mentally weak,sad
+I feel emotional pain and sadness,sad
+I feel sadness holding me back,sad
+I feel emotionally exhausted and low,sad
+I feel sadness blocking my happiness,sad
+I feel mentally sad today,sad
+I feel emotional sorrow today,sad
+I feel sadness taking control,sad
+I feel lonely and sad emotionally,sad
+I feel sadness disturbing my peace,sad
+I feel mentally unhappy today,sad
+I feel sadness draining my strength,sad
+I feel emotional weakness,sad
+I feel sadness occupying my mind,sad
+I feel emotionally upset and sad,sad
+I feel sadness with emptiness,sad
+
+I feel stressed from expectations,stressed
+I feel pressure weighing on my mind,stressed
+I feel mental strain today,stressed
+I feel stressed and mentally tense,stressed
+I feel pressure disturbing my peace,stressed
+I feel stress affecting my focus,stressed
+I feel mentally pressured and tired,stressed
+I feel stress building emotionally,stressed
+I feel overwhelmed by responsibilities,stressed
+I feel pressure draining my energy today,stressed
+I feel stress interfering with calmness,stressed
+I feel mentally exhausted and stressed,stressed
+I feel pressure affecting my emotions,stressed
+I feel stress holding me back today,stressed
+I feel mentally strained and uneasy,stressed
+I feel stress impacting my mood,stressed
+I feel anxious pressure today,stressed
+I feel mentally burdened by stress,stressed
+I feel stress dominating my thoughts,stressed
+I feel pressure overwhelming me today,stressed
+I feel stress disturbing my mental peace,stressed
+I feel mentally overloaded with pressure,stressed
+I feel stress affecting my happiness,stressed
+I feel pressure without relief today,stressed
+I feel mentally restless and stressed,stressed
+I feel stress consuming my energy,stressed
+I feel pressure exhausting me mentally,stressed
+I feel stress influencing my emotions,stressed
+I feel mentally stressed and uneasy,stressed
+I feel pressure continuously on my mind,stressed
+
+I feel anger rising in my mind,angry
+I feel irritation controlling my mood,angry
+I feel frustrated and mentally angry,angry
+I feel anger growing emotionally,angry
+I feel annoyed and irritated today,angry
+I feel frustration affecting my thoughts,angry
+I feel anger disturbing my peace,angry
+I feel irritation spreading emotionally,angry
+I feel angry reactions today,angry
+I feel frustration building inside,angry
+I feel anger taking over my emotions,angry
+I feel annoyed and mentally tense,angry
+I feel irritation influencing my mood,angry
+I feel anger and frustration combined,angry
+I feel aggressive thoughts today,angry
+I feel angry and emotionally disturbed,angry
+I feel irritation making me restless,angry
+I feel frustration occupying my mind,angry
+I feel anger without control,angry
+I feel annoyed due to pressure,angry
+I feel anger clouding my judgment,angry
+I feel frustration draining my patience,angry
+I feel irritated emotionally today,angry
+I feel anger affecting my reactions,angry
+I feel annoyed and upset emotionally,angry
+I feel frustration building mentally,angry
+I feel anger disturbing my thoughts,angry
+I feel irritation dominating my emotions,angry
+I feel angry tension today,angry
+I feel frustration deep inside,angry
+
+I feel mentally calm and balanced,neutral
+I feel emotionally steady today,neutral
+I feel neutral and relaxed mentally,neutral
+I feel fine without strong emotions,neutral
+I feel mentally average and calm,neutral
+I feel emotionally composed today,neutral
+I feel neutral mental state,neutral
+I feel calm with no emotional shift,neutral
+I feel emotionally even today,neutral
+I feel balanced and emotionally neutral,neutral
+I feel mentally steady and normal,neutral
+I feel neutral mood with clarity,neutral
+I feel emotionally quiet and normal,neutral
+I feel calm and emotionally flat,neutral
+I feel mentally neutral today,neutral
+I feel balanced without emotion extremes,neutral
+I feel emotionally unchanged and steady,neutral
+I feel neutral and composed emotionally,neutral
+I feel calm mental rhythm,neutral
+I feel emotionally stable and neutral,neutral
+I feel neutral emotional flow today,neutral
+I feel mentally consistent and calm,neutral
+I feel balanced emotional state,neutral
+I feel emotionally normal and calm,neutral
+I feel neutral without disturbance,neutral
+I feel mentally okay and steady,neutral
+I feel emotionally smooth today,neutral
+I feel neutral emotional balance,neutral
+I feel calm and emotionally usual,neutral
+I feel mentally settled and neutral,neutral
