@@ -6,7 +6,7 @@ import axios from "axios";
  * @returns {Promise}
  */
 export const predictMood = async (answers) => {
-    return axios.post("http://localhost:8000/predict", {
+    return axios.post("https://emotions-with-ai.onrender.com", {
         answers: answers
     });
 };
