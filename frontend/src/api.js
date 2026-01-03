@@ -3,10 +3,19 @@ import axios from "axios";
 /**
  * Sends user answers to AI backend for mood prediction
  * @param {Array<string>} answers
- * @returns {Promise}
  */
 export const predictMood = async (answers) => {
-    return axios.post("https://emotions-with-ai.onrender.com", {
-        answers: answers
-    });
+    const response = await axios.post(
+        "https://emotions-with-ai.onrender.com/predict",
+        {
+            answers: answers
+        },
+        {
+            headers: {
+                "Content-Type": "application/json"
+            }
+        }
+    );
+
+    return response.data;
 };

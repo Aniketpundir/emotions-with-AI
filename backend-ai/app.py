@@ -1,39 +1,42 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import joblib
 
 app = Flask(__name__)
-CORS(app)
+CORS(app)  # allow frontend requests
 
-# Load trained ML model
-model = joblib.load("emotion_model.pkl")
-
-@app.route("/predict", methods=["POST"])
-def predict():
-    data = request.get_json()
-
-    # Safety check
-    if "answers" not in data:
-        return jsonify({"error": "No answers provided"}), 400
-
-    # Join all answers into single text
-    combined_text = " ".join(data["answers"])
-
-    # Debug logs (VERY IMPORTANT)
-    print("USER INPUT TEXT:", combined_text)
-
-    # Predict emotion
-    prediction = model.predict([combined_text])[0]
-
-    print("PREDICTED MOOD:", prediction)
-
-    return jsonify({
-        "mood": prediction
-    })
-
+# Health check route (GET only)
 @app.route("/", methods=["GET"])
 def home():
-    return jsonify({"message": "AI Mood Detection API Running"})
+    return jsonify({"message": "AI Mood Server is running"}), 200
+
+# Mood prediction route (POST)
+@app.route("/predict", methods=["POST"])
+def predict_mood():
+    data = request.get_json()
+
+    if not data or "answers" not in data:
+        return jsonify({"error": "Answers not provided"}), 400
+
+    answers = data["answers"]
+
+    # SIMPLE RULE-BASED LOGIC (can replace with ML later)
+    joined_text = " ".join(answers).lower()
+
+    if "happy" in joined_text or "good" in joined_text:
+        mood = "happy"
+    elif "sad" in joined_text or "low" in joined_text:
+        mood = "sad"
+    elif "anxious" in joined_text or "worried" in joined_text:
+        mood = "anxious"
+    elif "angry" in joined_text or "frustrated" in joined_text:
+        mood = "angry"
+    else:
+        mood = "neutral"
+
+    return jsonify({
+        "predicted_mood": mood
+    }), 200
+
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8000, debug=True)
+    app.run(debug=True)
